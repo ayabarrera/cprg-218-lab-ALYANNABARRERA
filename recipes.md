@@ -101,7 +101,9 @@ Ingredients:
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 1 cup semisweet chocolate chips
+- 1/2 cup dark chocolate chip
+- 1/2 cup white chocolate chip
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
