@@ -59,6 +59,8 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- basil chiffonade for presentation
+- shaved parmesan for presentation
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -68,6 +70,7 @@ Instructions:
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
 7. Serve meatballs and sauce over spaghetti.
+8. Finish with basil chiffonade and shaved parmesan.
 
 ### Grilled Chicken Sandwich
 
@@ -80,14 +83,16 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Grilled onions
 
 Instructions:
 1. Preheat grill to medium-high heat.
 2. Season chicken breasts with salt and pepper and drizzle with olive oil.
 3. Grill chicken for 5-7 minutes per side or until cooked through.
-4. Top each chicken breast with a slice of Swiss cheese and let melt.
-5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+4. Add onions to grill, about 5 minutes.
+5. Top each chicken breast with a slice of Swiss cheese and let melt.
+6. Toast hamburger buns on the grill.
+7. Assemble sandwiches with chicken, lettuce, tomato, grilled onions, and mayonnaise.
 
 ## Desserts
 ### Chocolate Chip Cookies
