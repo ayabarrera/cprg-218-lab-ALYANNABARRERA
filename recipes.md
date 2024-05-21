@@ -115,3 +115,27 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Leche Flan
+<!--Filipino dessert-->
+Ingredients:
+- 10 eggs
+- 1 can (14oz) condensed milk
+- 1 cup fresh milk or evaporated milk
+- 1 cup granulated sugar
+- 1 teaspoon vanilla extract
+- 1/4 teaspoon salt
+
+Instructions:
+1. Preheat oven to 350°C.
+2. Separate egg yolks from egg whites. Only egg yolks will be used.
+3. For the egg yolk mixture: place the egg yolks in a big bowl then beat them using a fork or an eggbeater.
+4. Add the condensed milk and mix thoroughly.
+5. Pour in fresh milk and vanilla. Mix well.
+6. For the caramel: use a non-stick pan, add in your granulated sugar.
+7. Carefully melt the sugar, do not stir as it would crystalize, over low fire. Once nice and golden brown in color, transfer to your pan.
+8. Wait for 5 minutes then pour the egg yolk and milk mixture on the mold. Note: if you pour the egg yolk mixture to the hot sugar, it will curdle and have a scrambled egg texture.
+9. Cover the top of the mold using an Aluminum foil.
+10. Bake for 30 to 35 minutes.
+11. After baking, let the temperature cool down then refrigerate for 3 hours.
+12. Serve and enjoy!
