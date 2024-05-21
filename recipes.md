@@ -59,6 +59,8 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- basil chiffonade for presentation
+- shaved parmesan for presentation
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -68,6 +70,7 @@ Instructions:
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
 7. Serve meatballs and sauce over spaghetti.
+8. Finish with basil chiffonade and shaved parmesan.
 
 ### Grilled Chicken Sandwich
 
